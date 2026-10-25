@@ -1,0 +1,29 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# IDE and Editor configurations
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary downloads and large dataset archives
+temp_cifar/
+*.zip
+*.tar.gz
+*.tgz
+
+# OS specific files
+.DS_Store
+Thumbs.db
